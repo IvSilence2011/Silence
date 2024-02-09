@@ -5,9 +5,11 @@
   color: red;
 }
 body{
-  background-image: url("Gradient.jpg");
+  background-image: url("Cube.jpeg");
   background-attachment: fixed;
   background-repeat: no-repeat;
+  width: auto;
+  height: auto;
 
 
 
@@ -197,14 +199,21 @@ background-color: red;
   position: static;
 }
 .Invo2{
-  color: 3AF7DA;
-  background-color: green;
+  color: 6D30C1;
+  background-color: 093C44;
 }
 .abz1{
-  background-color: black;
-  color: white;
+  background-color: 2156A8;
+  color: 46925C;
+  text-align: center;
+  width: 1000px;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+  margin: 24%;
+  display: flex;
 
-  background-position: center;
+
 }
 .imba{
   list-style: none;
@@ -266,3 +275,4 @@ header .left3:hover{
 
 
 }
+
