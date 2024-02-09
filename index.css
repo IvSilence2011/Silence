@@ -1,0 +1,267 @@
+.Favorite{
+  text-align: center;
+  vertical-align: top;
+  height: 100;
+  color: red;
+}
+body{
+  background-image: url("Gradient.jpg");
+  background-attachment: fixed;
+
+
+
+}
+
+.img1{
+
+}
+
+.left1{
+   color: white;
+   height: 100;
+   list-style: none;
+   font-family: sans-serif;
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   text-decoration: none;
+}
+.td1{
+  background-color: white;
+  border-color: red;
+
+}
+.tbl1{
+  background-position: top;
+}
+
+.YT1{
+
+  border-color: black;
+  color: red;
+}
+.info1{
+  text-align: center;
+  color: orange;
+}
+.img2{
+  width: 400px;
+  height: 300px;
+  background-position: center;
+}
+.egg{
+
+  background-image: url("black.jpg");
+  width: 400px;
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+  color:
+}
+.tbl3{
+  color: grey;
+  border:  30px;
+}
+.YT2{
+  color: green;
+background-color: red;
+}
+.YT3{
+  color: yellow;
+background-color: red;
+}
+.YT4{
+  color: blue;
+  background-color: red;
+
+}
+.YouTube{
+  color: white;
+  background-color: grey;
+  width: 400px;
+  padding-right: 800px;
+  padding-left: 800px;
+}
+.Ds1{
+  color: blue;
+  border-color: white;
+  background-color: grey;
+}
+.Ds2{
+  color: red;
+  background-color: grey;
+}
+.Ds3{
+  color: orange;
+  background-color: grey;
+}
+
+.Ds4{
+  color: white;
+  background-color: grey;
+
+}
+.left2{
+  color: blue;
+  height: 100;
+  list-style: none;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+   text-decoration: none;
+}
+.left3{
+  color: red;
+  height: 100;
+  list-style: none;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+   text-decoration: none;
+}
+.cs1{
+  color: yellow;
+  background-color: grey;
+
+}
+
+.cs2{
+  color: #1FAFEE;
+  background-color: grey;
+
+}
+
+.cs3{
+  color: red;
+  background-color: grey;
+
+}
+
+.cs4{
+  color: #1BC118 ;
+  background-color: grey;
+
+}
+.CS{
+  color: white;
+  background-color: blue;
+  width: 400px;
+  padding-right: 800px;
+  padding-left: 800px;
+  border-color: yellow;
+}
+.cS{
+  color: orange;
+}
+.Rx{
+  color: grey;
+  background-color: red;
+  text-align: center;
+}
+.Rb{
+  color: grey;
+  background-color: black;
+}
+.Rb1{
+  color: #229307;
+  background-color: black;
+}
+.Rb2{
+  color: orange;
+  background-color: black;
+}
+.Rb3{
+  color: brown;
+  background-color: black;
+}
+.RbT{
+  color: black;
+  background-color: brown;
+  width: 400px;
+  padding-right: 800px;
+  padding-left: 800px;
+
+}
+.Thanks1{
+  background-color: 1D3632;
+  color: 157386;
+  position: absolute;
+  background-position: center;
+  text-align: center;
+
+  background-size: 400px 400px 400px;
+  position: static;
+}
+.Invo2{
+  color: 3AF7DA;
+  background-color: green;
+}
+.abz1{
+  background-color: black;
+  color: white;
+
+  background-position: center;
+}
+.imba{
+  list-style: none;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+header{
+
+  background-color: 2A4F49;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 4%;
+  box-shadow: 0px 5px 20px
+}
+header .img1:hover{
+  transform: scale(1.6);
+  transition: 1s;
+
+}
+header .left1:hover{
+  transform: scale(1.6);
+  transition: 1s;
+
+}
+header .left2:hover{
+  transform: scale(1.6);
+  transition: 1s;
+
+}
+header .left3:hover{
+  transform: scale(1.6);
+  transition: 1s;
+
+}
+.gpb{
+  background-color: 2B3132;
+  color: 148957;
+
+  width:auto;
+  height:auto;
+  text-align: center;
+  left: 0px;
+  right: 0px;
+
+  margin: 30%;
+  margin-right: 40%;
+
+
+  padding: 0%;
+  top: 20% 20% 20% 20%;
+
+
+
+}
